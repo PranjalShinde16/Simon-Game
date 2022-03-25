@@ -1,0 +1,58 @@
+/*Body and head*/
+body {
+  background-color: #011f3f;
+}
+
+h1 {
+  line-height: 5rem;
+}
+
+.head {
+  font-family: 'Press Start 2P';
+  color: #fef2bf;
+  font-size: 3rem;
+  margin-top: 3rem;
+}
+
+.error {
+  background-color: red;
+}
+
+/*Buttons*/
+.btn {
+  border-radius: 2rem;
+  height: 12rem;
+  width: 12rem;
+  color: black;
+  border: 10px solid;
+}
+
+.btn-shivalik {
+  margin: 5rem 3rem 3rem 0;
+  background-color: red;
+}
+
+.btn-udaygiri {
+  margin: 5rem auto 3rem auto;
+  background-color: yellow;
+}
+
+.btn-aravali {
+  margin-right: 3rem;
+  background-color: blue;
+}
+
+.btn-nilgiri {
+  background-color: green;
+}
+
+.shadow {
+  box-shadow: 0 0 30px grey;
+}
+
+/*Footer*/
+.footer {
+  color: #fef2bf;
+  font-family: cursive;
+  margin-top: 4rem;
+}
